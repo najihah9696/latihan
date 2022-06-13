@@ -1,0 +1,2 @@
+# latihan
+my first reposity
